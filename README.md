@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Prasanth-kumar-G
 - 👀 I’m interested in Developing
-- 🌱 I’m currently learning  MERN Specialization ( MangoDB ExpressJs NodeJs ReactJs )
+- 🌱 I’m currently learning  MERN Specialization ![image](https://user-images.githubusercontent.com/91778918/136649074-b049c7c3-bf8d-4f35-a9f5-8a15dee56523.png)
+
 - 💞️ I’m looking to collaborate on MERN
 - 📫 How to reach me g.prasanth026@gmail.com
 
