@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prasanth-kumar-G
 - 👀 I’m interested in Developing
-- 🌱 I’m currently learning  MERN Specialization ![NodeJs](http://url/to/img.png)
+- 🌱 I’m currently learning  MERN Specialization :nodejs:
 - 💞️ I’m looking to collaborate on MERN
 - 📫 How to reach me g.prasanth026@gmail.com
 
