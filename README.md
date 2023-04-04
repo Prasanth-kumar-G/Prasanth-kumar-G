@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Prasanth-kumar-G
 - 👀 I’m interested in Developing
-- 🌱 I’m currently learning  MERN Specialization
-- 💞️ I’m looking to collaborate on MERN
+- 🌱 I’m currently working on MuleSoft
+- 💞️ I’m looking to collaborate on MuleSoft
 - 📫 How to reach me g.prasanth026@gmail.com
 
 <!---
